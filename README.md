@@ -1,6 +1,6 @@
 ### Bem Vindo 👋
 
-Trabalho na [LAB1 Consultoria](lab1.com.br) desde 2008, mais especificamente com SAP Business One e desenvolvimento de AddOns
+Trabalho na [LAB1 Consultoria](lab1.com.br) desde 2008, mais especificamente com SAP Business One e desenvolvimento de AddOns.
 
 Temos como foco atender clientes com grandes volumes de dados e interações, aonde desenvolvemos addons que possam automatizar as operações.
 
