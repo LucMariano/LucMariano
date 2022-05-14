@@ -1,5 +1,9 @@
 ### Bem Vindo 👋
 
+Sou Luciano, Gerente de Projetos na [LAB1 Consultoria](lab1.com.br)
+
+Desde 2008 trabalhando com SAP Business One e desenvolvimento de AddOns
+
 <!--
 **LucMariano/LucMariano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +19,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Visite nosso site](lab1.com.br)
