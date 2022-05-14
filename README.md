@@ -1,21 +1,11 @@
 ### Bem Vindo 👋
 
-Sou Luciano, Gerente de Projetos na [LAB1 Consultoria](lab1.com.br)
+Trabalho na [LAB1 Consultoria](lab1.com.br) desde 2008, mais especificamente com SAP Business One e desenvolvimento de AddOns
 
-Desde 2008 trabalhando com SAP Business One e desenvolvimento de AddOns
+Temos como foco atender clientes com grandes volumes de dados e interações, aonde desenvolvemos addons que possam automatizar as operações.
 
-<!--
-**LucMariano/LucMariano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desde leitura e processamento de arquivos, até integrações via APIs e WebServices.
 
-Here are some ideas to get you started:
+O Lema é **Fazer Melhor do que Nunca**, ajudando nossos clientes a fazerem melhor o que já fazem bem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+Para contato, que tal [Meu Linkedin](https://www.linkedin.com/in/lucianomariano/)
